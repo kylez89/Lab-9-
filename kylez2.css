@@ -1,0 +1,137 @@
+/*Home Page*/
+	/*background picture*/
+	/*Detroit SkyLine picture here*/
+	
+/*
+.nav {
+	width: 300px;
+	height: 60px;
+	font-family: Arial;
+	font-weight: 500px;
+	font-size: 22px;
+}
+
+*/
+.nav{
+	height: auto;
+	text-align: center;
+	width: 100%;
+	position: absolute;
+	top: 0;
+}
+
+
+.nav li{
+	color: #e9c652;
+	float: left;
+	font-family: 'Arial', Sans-serif;
+	font-size: 20px;
+	font-weight: 100;
+	letter-spacing: 2px;
+	margin: 20px;
+	text-transform: uppercase;
+	margin-top: -2px;
+}
+
+li a{
+	color: #1F2426;
+}
+
+/*About Page*/ 
+/*text*/
+.abouttitle  {
+		margin-top: 80px;
+		font-family: 'Special Elite', cursive;
+}
+
+.handptext {
+	font-family: 'Glegoo', serif;
+}
+ 
+/*DISPLAY IMAGES INLINE*/
+
+div.imgs{
+height:auto;
+width:auto;
+float:left;
+text-align:center;
+}
+div.imgs img {
+display: inline;
+padding: 5px;
+}
+div.desc {
+text-align: center;
+font-weight: normal;
+width: 183px;
+margin: 3px;
+padding: 5px;
+}
+/*DISPLAY IMAGES INLINE*/
+
+/*Porfolio Projects*/
+/*title*/
+
+/*images*/
+.floating-box{
+	display: inline-block;
+
+	/*margin: auto;*/
+	width: 30%;
+
+}
+
+
+.MSU{
+	height: 150px;
+	width: 100%;
+}
+
+
+
+
+/*Text*/
+h3{
+	font-family: 'Rock Salt', cursive;
+	text-align: center;
+	text-decoration: underline;
+}
+
+p{
+	font-family: 'Unica One',
+}
+
+.grid-container{
+	width: none;
+	max-width: 1200px;
+	height: auto;
+
+}
+
+
+
+/*paragraph*/
+.hello{
+	text-align: center;
+}
+
+
+/*Media Queries*/
+
+@media (max-width: 1200px) {
+		body{
+			background-color: #108039;
+		}
+	}
+@media (max-width: 900px) {
+		body{
+			background-color: #e0dcda;
+		}
+	}
+
+@media (max-width: 600px) {
+		body{
+			background-color: #085825;
+		}
+	}
+
