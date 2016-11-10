@@ -22,7 +22,7 @@
 
 
 .nav li{
-	color: #e9c652;
+	color: #D4C983;
 	float: left;
 	font-family: 'Arial', Sans-serif;
 	font-size: 20px;
@@ -34,7 +34,7 @@
 }
 
 li a{
-	color: #1F2426;
+	color: #2C7E99;
 }
 
 /*About Page*/ 
@@ -120,18 +120,18 @@ p{
 
 @media (max-width: 1200px) {
 		body{
-			background-color: #108039;
+			background-color: #D5DBD8;
 		}
 	}
 @media (max-width: 900px) {
 		body{
-			background-color: #e0dcda;
+			background-color: #D5DBD8;
 		}
 	}
 
 @media (max-width: 600px) {
 		body{
-			background-color: #085825;
+			background-color: #D5DBD8;
 		}
 	}
 
